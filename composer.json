@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Amos Ng",
+        "email": "20028430@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
